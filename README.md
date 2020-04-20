@@ -1,2 +1,2 @@
 # AI_and_DS_study
-Pytorchやsklearnなどを用いて機械学習を勉強した時のipynbファイルです．
+Pytorchやsklearnなどを用いて機械学習およびデータサイエンスについて勉強した時のipynbファイルです．
